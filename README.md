@@ -9,7 +9,7 @@
 
 ## GitHub Activity
 
-![snake gif](https://github.com/Ahmed-Maheran/Ahmed-Maheran/blob/output/github-contribution-grid-snake.svg)
+[![GitHub Contribution Graph](https://ghchart.rshah.org/Ahmed-Maheran)](https://github.com/Ahmed-Maheran)
 
 ## Connect
 ![My Name](https://img.shields.io/badge/Ahmed_Maheran-663399)
