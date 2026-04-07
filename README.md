@@ -7,10 +7,6 @@
 
 > I’m a web developer from Bangladesh, studying at Mirpur Cantonment Public School and College. Curious by nature, I’m always learning and growing. working toward building scalable systems and improving my problem-solving skills while following my passion.
 
-## GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/Ahmed-Maheran)](https://github.com/Ahmed-Maheran)
-
 ## Connect
 ![My Name](https://img.shields.io/badge/Ahmed_Maheran-663399)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmed-Maheran)
